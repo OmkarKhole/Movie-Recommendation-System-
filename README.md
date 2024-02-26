@@ -1,7 +1,9 @@
 # Movie-Recommendation-System Using Python - Project
 This project implements a movie recommendation system using machine learning techniques in Python. It aims to predict movies that users might enjoy based on their past preferences or the interests of similar users.
+
 Key Features:
 Dataset: Utilizes a dataset of 4803 movies with many features like title,cast,director,genres,keywords,tagline,popularity,etc.but mainly focused on 'genres','keywords','tagline','cast','director'
+
 Libraries Used:
 pandas (pd): For data manipulation and analysis.
 numpy (np): For numerical operations and array handling.
